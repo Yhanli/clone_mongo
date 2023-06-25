@@ -6,7 +6,6 @@ import bson.json_util as json_util
 from_db_connection_string = (
     "mongodb://root:hougarden@localhost:27011/?authMechanism=DEFAULT"
 )
-from_db = "RealEstateAU"
 
 
 to_db_connection_string = (
